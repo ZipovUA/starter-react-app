@@ -1,0 +1,11 @@
+{
+    "objectName": "zamok", 
+    "title": "Олеський замок",
+    "wikiLink": "https://uk.wikipedia.org/wiki/%D0%9E%D0%BB%D0%B5%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D0%B7%D0%B0%D0%BC%D0%BE%D0%BA",
+    "objectUrl": "https://drive.google.com/file/d/1IvWtCwu8uo1vlgAXmQWCb4y9hqQyiDam/view?usp=share_link",
+    "scale":[0.30,0.30,0.30],
+    "rotation": [0,0,0],
+    "position": [0,0,0],
+    "description": "Оле́ський за́мок — пам'ятка архітектури та історії XIII—XVIII століть, розташований у смт Олесько, Золочівського району Львівської області. Один із найдавніших в Україні замків, імовірно, побудований одним із синів галицько-волинського князя Юрія Львовича на плато пагорба, який височить серед заплави річки Ліберція.",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Olesko_Castle.jpg/2560px-Olesko_Castle.jpg"
+}
