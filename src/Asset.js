@@ -2,7 +2,6 @@ import { useRef, useMemo } from 'react'
 import { useLoader } from "@react-three/fiber";
 import { GLTFLoader } from "three/examples/jsm/loaders/GLTFLoader";
 import { FBXLoader } from "three/examples/jsm/loaders/FBXLoader";
-import { useFBX } from "@react-three/drei";
 import { TextureLoader } from "three/src/loaders/TextureLoader.js";
 
 export function Asset({ url, position= [0,0,0], rotation = [0,0,0], scale=[1,1,1]}) {
