@@ -1,12 +1,11 @@
 import React, { useState, useRef} from "react";
 import { Route, Routes, useParams} from 'react-router-dom';
 import './App.css';
-import { Canvas } from 'react-three-fiber'
 
 import Scene from './Scene';
 import { OrbitControls } from "three/examples/jsm/controls/OrbitControls";
 
-import { useThree, useFrame, extend } from "react-three-fiber";
+import { useThree, useFrame, extend, Canvas } from "@react-three/fiber";
 import Artifact3DObjectsService from "./data/objects_info/artifact3DobjectsService";
 
 extend({ OrbitControls });

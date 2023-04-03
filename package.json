@@ -28,18 +28,16 @@
     ]
   },
   "dependencies": {
+    "@react-three/drei": "^9.11.0",
+    "@react-three/fiber": "^8.12.0",
     "dotenv": "^16.0.3",
     "express": "^4.18.2",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-router-dom": "^6.10.0",
     "react-scripts": "5.0.1",
-    "web-vitals": "^3.3.0",
-    "@react-three/drei": "^9.11.0",
-    "react-three-fiber": "^6.0.13",
-    "three": "^0.140.2",
-    "troika-three-text": "^0.47.1"
-
+    "three": "^0.151.3",
+    "web-vitals": "^3.3.0"
   },
   "devDependencies": {
     "@testing-library/jest-dom": "^5.16.5",

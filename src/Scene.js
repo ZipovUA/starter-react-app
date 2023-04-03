@@ -1,10 +1,10 @@
 import React, {Suspense, useEffect} from 'react'
 import { Asset } from "./Asset"
 import { Html, useProgress } from '@react-three/drei'
-import { Text } from "troika-three-text";
-import { extend } from "react-three-fiber";
+// import { Text } from "troika-three-text";
+// import { extend } from "react-three-fiber";
 // Register Text as a react-three-fiber element
-extend({ Text });
+// extend({ Text });
 
 function Loader() {
   const { progress } = useProgress()
